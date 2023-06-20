@@ -26,8 +26,7 @@
 
 ![Территория](https://i.pinimg.com/originals/38/f0/47/38f047f2735279997cfe6525a8be1751.jpg) \
 ![Марио](https://img.itch.zone/aW1nLzYxMzA0MjIuZ2lm/original/x7XLh2.gif) \
-![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
+![Грибы](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
 print(Игра сделана на Python :) )
 ```
-![1](images/20 Enemies.png)
