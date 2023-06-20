@@ -30,3 +30,4 @@
 ```python
 print(Игра сделана на Python :) )
 ```
+[1](images/20 Enemies.png)
